@@ -1,0 +1,7 @@
+{
+  "name": "segundo-cerebro",
+  "version": "0.1.0",
+  "description": "Le da a Claude un segundo cerebro de cada proyecto: instala graphify, crea el grafo de conocimiento con un clic, lo mantiene al día solo y hace que Claude lo consulte antes de buscar a mano.",
+  "author": { "name": "waldooCreator" },
+  "types": "./types/index.d.ts"
+}

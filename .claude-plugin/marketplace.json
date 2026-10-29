@@ -1,0 +1,12 @@
+{
+  "name": "segundo-cerebro",
+  "description": "Segundo cerebro: graphify automático en Claude Code, para que Claude recuerde cada proyecto.",
+  "owner": { "name": "waldooCreator" },
+  "plugins": [
+    {
+      "name": "segundo-cerebro",
+      "source": "./",
+      "description": "Instala graphify, crea el grafo de conocimiento del proyecto con un clic, lo mantiene al día solo y hace que Claude lo consulte antes de buscar a mano."
+    }
+  ]
+}
